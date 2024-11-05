@@ -1,0 +1,48 @@
+programa
+{
+   funcao inicio()
+   {
+      real raio, altura, areaBase, comprimentoCircunferencia, areaLateral, areaTotal, volume
+      inteiro opcao
+      escreva("Digite o raio do cilindro: ")
+      leia(raio)
+      escreva("Digite a altura do cilindro: ")
+      leia(altura)
+	  escreva("Escolha uma opção:\n")
+      escreva("1 - Área do círculo\n")
+      escreva("2 - Comprimento da circunferência\n")
+      escreva("3 - Área lateral\n")
+      escreva("4 - Área total\n")
+      escreva("5 - Volume\n")
+      leia(opcao)
+
+         se(opcao==1){
+            areaBase = 3.14 * raio * raio
+            escreva("Área do círculo (base do cilindro): ", areaBase, "\n")
+		    }
+
+         se(opcao==2){
+           
+            comprimentoCircunferencia = 2 * 3.14 * raio
+            escreva("Comprimento da circunferência: ", comprimentoCircunferencia, "\n")
+		 }
+
+         se(opcao==3){
+            areaLateral = 2 * 3.14 * raio * altura
+            escreva("Área lateral: ", areaLateral, "\n")
+		 }
+
+         se(opcao==4){
+            areaBase = 3.14 * raio * raio
+            areaLateral = 2 * 3.14 * raio * altura
+            areaTotal = 2 * areaBase + areaLateral
+            escreva("Área total: ", areaTotal, "\n")
+		 }
+
+         se(opcao==5){
+            areaBase = 3.14 * raio * raio
+            volume = areaBase * altura
+            escreva("Volume: ", volume, "\n")
+      }
+   }
+}

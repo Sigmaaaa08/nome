@@ -1,0 +1,28 @@
+#include <iostream>
+#include <math.h>
+#include <string>
+using namespace std;
+int main() {
+    int op, x, y,z;
+    float numraiz, raizquadrada;
+    cout<< "Menu de opções: \n 1-Somar dois numeros: \n 2-raiz quadrada de um numero: ";
+    cin>> op;
+    if(op==1){
+        cout<< "Digite um numero: ";
+        cin>> x;
+         cout<< "Digite um numero: ";
+        cin>> y;
+        z=x+y;
+        cout<< x << "+" <<y<< "=" <<z<< "\n";
+        }
+        if(op==2){
+            cout<< "Digite um numero para descobrir a raiz quadrada: ";
+            cin>> numraiz;
+            raizquadrada=sqrt(numraiz);
+            cout<< "A raiz de " <<numraiz<< " é " <<raizquadrada<< "\n";
+        }
+        if(op>2){
+            cout<< "Opção invalida! Comando encerrado.";
+        }
+    return 0;
+}

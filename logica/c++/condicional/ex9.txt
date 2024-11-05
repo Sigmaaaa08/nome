@@ -1,0 +1,47 @@
+#include <iostream>
+#include <math.h>
+#include <string>
+using namespace std;
+int main() {
+    int codigo;
+    float aumento, salario;
+    double porcent50=0.5, porcent35=0.35, porcent20=0.2, porcent10=0.1;
+    cout<< "Menu de cargos \n 1- Escrituario; \n 2- Secretario; \n 3- Caixa; \n 4- Gerente; \n 5- Diretor. \n Digite seu codigo:  ";
+    cin>> codigo;
+    if(codigo==1){
+        cout<< "Escrituario \n";
+        cout<<"Informe seu salario: ";
+        cin>> salario;
+        aumento=salario*porcent50;
+        cout<< "O seu cargo é 'Escrituario'" "\n E seu aumento foi de R$" <<aumento<< "\n";
+    }
+    if(codigo==2){
+        cout<< "Secretario(a) \n";
+        cout<<"Informe seu salario: ";
+        cin>> salario;
+        aumento=salario*porcent35;
+        cout<< "O seu cargo é 'Secretario(a)'" "\n E seu aumento foi de R$" <<aumento<< "\n";
+    }
+    if(codigo==3){
+        cout<< "Caixa \n";
+        cout<<"Informe seu salario: ";
+        cin>> salario;
+        aumento=salario*porcent20;
+        cout<< "O seu cargo é 'Caixa'" "\n E seu aumento foi de R$" <<aumento<< "\n";
+    }
+    if(codigo==4){
+        cout<< "Gerente \n";
+        cout<<"Informe seu salario: ";
+        cin>> salario;
+        aumento=salario*porcent10;
+        cout<< "O seu cargo é 'Gerente'" "\n E seu aumento foi de R$" <<aumento<< "\n";
+    }
+    if(codigo==5){
+        cout<< "Diretor \n";
+        cout<<"Informe seu salario: ";
+        cin>> salario;
+        cout<< "O seu cargo é 'Diretor'" "\n E voce não possui aumentos. ";
+        }
+    
+    return 0;
+}
