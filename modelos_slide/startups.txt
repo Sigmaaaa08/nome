@@ -1,0 +1,34 @@
+startups: Uber, Spotify Whatsapp, Airbnb. Contar suas histórias, Seus desafios, como está hoje (quantidade de usuários, paises onde esta, etc.).
+### 1. Uber
+
+**História:** Fundada em 2009 por Garrett Camp e Travis Kalanick, a Uber começou como um serviço de carona em São Francisco. A ideia inicial era facilitar o transporte urbano, permitindo que motoristas particulares oferecessem corridas.
+
+**Desafios:** Desde o início, a Uber enfrentou desafios regulatórios em várias cidades e países, além de questões relacionadas à segurança e ao tratamento de seus motoristas. A empresa também lidou com concorrência intensa de serviços de transporte locais e a resistência de taxistas.
+
+**Situação Atual:** Hoje, a Uber opera em mais de 900 cidades em 69 países. Em 2023, a empresa reportou cerca de 131 milhões de usuários ativos mensais. Além do transporte, a Uber expandiu seus serviços para entrega de alimentos (Uber Eats) e logística.
+
+### 2. Spotify
+
+**História:** Lançado em 2008 por Daniel Ek e Martin Lorentzon, o Spotify começou como uma plataforma de streaming de música com o objetivo de combater a pirataria e oferecer uma experiência musical legal e acessível.
+
+**Desafios:** O Spotify enfrentou desafios com licenciamento de música, uma vez que dependia de acordos com gravadoras e artistas. Além disso, a empresa teve que lidar com críticas sobre a remuneração dos músicos e a concorrência crescente de outros serviços de streaming, como Apple Music e Amazon Music.
+
+**Situação Atual:** Em 2023, o Spotify tinha cerca de 574 milhões de usuários ativos, incluindo 226 milhões de assinantes pagos. A empresa está presente em mais de 180 países e continua a expandir suas ofertas, incluindo podcasts e conteúdo exclusivo.
+
+### 3. WhatsApp
+
+**História:** Fundado em 2009 por Brian Acton e Jan Koum, o WhatsApp começou como uma simples aplicação de mensagens. A ideia era criar uma plataforma que permitisse comunicação instantânea sem as limitações dos SMS.
+
+**Desafios:** Em 2014, o Facebook adquiriu o WhatsApp por cerca de US$ 19 bilhões, o que trouxe preocupações sobre privacidade e uso de dados. A empresa também teve que enfrentar desafios com desinformação e segurança.
+
+**Situação Atual:** Em 2023, o WhatsApp contava com mais de 2 bilhões de usuários em todo o mundo. A plataforma está disponível em praticamente todos os países e continua a expandir recursos, como pagamentos e funcionalidades para negócios.
+
+### 4. Airbnb
+
+**História:** Fundado em 2008 por Brian Chesky, Joe Gebbia e Nathan Blecharczyk, o Airbnb começou como uma solução para alugar espaço em casa durante uma conferência em São Francisco. A ideia cresceu rapidamente, oferecendo hospedagem alternativa em todo o mundo.
+
+**Desafios:** O Airbnb enfrentou muitos desafios regulatórios, especialmente em cidades que tentaram controlar o aluguel de curto prazo. A empresa também lidou com questões de segurança e a resistência da indústria hoteleira.
+
+**Situação Atual:** Em 2023, o Airbnb opera em mais de 220 países e regiões, com mais de 6 milhões de anúncios. A plataforma se adaptou ao cenário pós-pandemia, promovendo estadias longas e experiências.
+
+Essas empresas não apenas revolucionaram suas respectivas indústrias, mas também enfrentaram desafios significativos ao longo de suas trajetórias. Hoje, elas continuam a evoluir e a se adaptar a um mundo em constante mudança.
