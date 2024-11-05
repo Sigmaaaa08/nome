@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+    <style>
+        body {
+            background-color: #F7D3D7; 
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 945px;
+            margin: 0;
+        }
+        .form-container {
+            background-color: white;
+            border-radius: 8px;
+            padding: 30px;
+            box-shadow: 0 4px 8px rgba(206, 186, 255, 0.1);
+            width: 400px; 
+        }
+        .button.is-primary {
+            background-color: #FF6F61; 
+        }
+        .button.is-light {
+            color: #FF6F61;
+        }
+    </style>
+    <title>Formulário sobre flores</title>
+</head>
+<body>
+    <div class="form-container">
+        <h1 class="title has-text-centered">Formulário sobre flores</h1>
+        <form>
+            <div class="field">
+                <label class="label">Nome</label>
+                <div class="control">
+                  <input class="input is-danger" type="text" placeholder="Nome">
+                    <i class="fas fa-user"></i>
+                    <i class="fas fa-check"></i>
+    
+                </div>
+                <div class="field">
+                    <label class="label"> Senha</label>
+                    <p class="control">
+                      <input class="input is-danger" type="password" placeholder="Senha">
+                        <i class="fas fa-lock"></i>
+                    </p>
+                  </div>
+            <div class="field">
+                <label class="label" for="opiniao">Deixe suas flores favoritas:</label>
+                <div class="control">
+                    <textarea class="textarea is-danger is-hovered" cols="50" rows="2" name="opiniao" id="opiniao" placeholder="Escreva sua opinião"></textarea>
+                </div>
+            </div>
+
+            <div class="field">
+                <label class="label">Monte seu buquê:</label>
+                <div class="control">
+                    <label class="checkbox">
+                        <input type="checkbox" name="flor" value="aranha_vermelha"> Lírio da aranha vermelha
+                    </label>
+                    <label class="checkbox">
+                        <input type="checkbox" name="flor" value="vale"> Lírio-do-vale
+                    </label>
+                    <label class="checkbox">
+                        <input type="checkbox" name="flor" value="narcissus"> Narcissus
+                    </label>
+                </div>
+            </div>
+
+            <div class="field">
+                <label class="label">Continente com suas flores favoritas:</label>
+                <div class="control">
+                    <label class="radio">
+                        <input type="radio" name="continente" value="Africa"> África
+                    </label>
+                    <label class="radio">
+                        <input type="radio" name="continente" value="America"> América
+                    </label>
+                    <label class="radio">
+                        <input type="radio" name="continente" value="Antartida"> Antártida
+                    </label>
+                    <label class="radio">
+                        <input type="radio" name="continente" value="Asia"> Ásia
+                    </label>
+                    <label class="radio">
+                        <input type="radio" name="continente" value="Europa"> Europa
+                    </label>
+                    <label class="radio">
+                        <input type="radio" name="continente" value="Oceania"> Oceania
+                    </label>
+                </div>
+            </div>
+
+            <div class="field">
+                <label class="label" for="cidade">Cidade com as melhores flores:</label>
+                <div class="control">
+                    <div class="select is-danger focused">
+                        <select name="cidade" id="cidade">
+                            <option value="Holambra">Holambra - SP</option>
+                            <option value="Joinville">Joinville - SC</option>
+                            <option value="Nova Friburgo">Nova Friburgo - RJ</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+
+            <div class="field is-grouped is-centered">
+                <div class="control">
+                    <button class="button is-light" type="reset">Limpar</button>
+                </div>
+                <div class="control">
+                    <button class="button is-primary" type="submit">Enviar</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,80 @@
+
+
+.body{
+    margin: auto;
+    padding: auto;
+    background-image: url(/IMG/PKMSM.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+
+#site {
+    background-color: #1E1C59;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    
+}
+
+
+
+
+
+#banner {
+    width: 900px;
+    height: 200px;
+    background-color: #3C3A8C;
+}
+
+
+
+
+
+#principal {
+    width: 900px;
+    height: 420px;
+    background-color: #1E1C59;
+    
+}    
+.personagema{
+    height: 420px;
+    width: 235px;
+    align-items: center;
+    justify-content: center;
+}
+.personagemal{
+    height: 405px;
+    width: 173px;
+    top: auto;
+    align-items: center;
+    justify-content: center;
+}
+ .personagemk{
+    height: 405px;
+    width: 171px;
+    top: auto;
+    
+    align-items: center;
+    justify-content: center;
+}   
+
+
+
+
+
+#menu {
+    width: 900px;
+    height: 55px;
+    background-color: #2B2A6D;
+}
+
+
+
+
+
+#rodape {
+    width: 900px;
+    height: 25px;
+    background-color:#373780;
+}

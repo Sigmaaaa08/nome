@@ -1,0 +1,23 @@
+      @charset "utf-8"; 
+/* CSS Document */
+h2, h3{
+background-color: rgb(244, 119, 119);
+border: 1px dotted #999;
+}
+h4 a{
+background-color: rgb(204, 153, 153);
+border-style: double;
+font-family: "Courier New", Courier, monospace;
+}
+.formatacao{
+background-color: rgb(255, 0, 0);
+}
+#primeira{
+background-color: rgb(0, 255, 238);
+}
+#segunda{
+background-color: rgb(187, 0, 255);
+}
+#terceira{
+background-color: ☐ orange;
+}

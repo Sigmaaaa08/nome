@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+  <head>
+    <title>  Formatações de fontes e textos </title>
+	<meta charset="utf-8">
+  </head>
+  <body>  
+      <h1> Fontes e textos usando CSS </h1>
+	 <!--1-Parágrafo com fonte tamanho de 16 pixels -->
+	  <p style="font-size;16px"> Karen Luísa <p>
+	 <!--2-Parágrafo com fonte tamanho 1em -->
+	  <p style="font-size:1em"> Karen <p>
+	 <!--3-Parágrafo com fonte tamanho 2em -->
+		<p style="font-size:2em">  Karen <p>
+	 <!--4-Parágrafo com fonte 150% -->
+    	<p style="font-size:150%"> Karen <p>
+	 <!--5-Parágrafo na cor vermelha-->
+	  	 <p style="color:red"> Karen <p> 	  
+	 <!--6-Parágrafo fonte Comic Sans Ms e cor de fundo laranja-->
+	  <p style="font-family:Comic Sans Ms;background:orange"> Karen </p>
+	 <!--7-Parágrafo com cor de fundo azul e letra branca -->
+	  <p style="background:blue; color:white"> Karen </p> </p>
+	 <!--8-Parágrafo com fonte cor azul e Arial-->
+	  <p style="font-family:Arial;background:blue"> Karen </p>
+	 <!--9-Parágrafo com fonte Arial Black em itálico -->
+	 	  <p style=<"font-family:arial black; font-style:italic"> Karen </p>
+	 <!--10-Parágrafo em negrito e na cor de letra cinza -->
+	  <p style="font-weight:bold;color:gray"> Karen </p>
+	 <!--11-Cabeçalho de nível 3 com cor verde-->
+	<h3 style="color:green"> Karen </h3> 
+ 	 <!--12-Cabeçalho de nível 4 com fonte verdana e  sublinhado-->
+	 <h4 style="font-family:Verdana; text-decoration:_"> Karen </p>
+	 <!--13-Cabeçalho de nível 2 cor de fundo azul e alinhamento centralizado-->
+	 <h2 style="background:blue; text-align:center"> Karen </h2>
+	 
+	  
+	  
+
+		
+ 		 
+  </body>
+</html>  
